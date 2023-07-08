@@ -1,7 +1,7 @@
-### Hi there 👋
-# I am 01st Year Bsc.IT Student (SLIIT Malabe Branch).
-# Innovative codes come from mistakes,
-# So give fire to your sparks.
+## Hi there 👋
+ I am 01st Year Bsc.IT Student (SLIIT Malabe Branch).
+ Innovative codes come from mistakes,
+ So give fire to your sparks.
 
 <!--
 **rdarshan927/rdarshan927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
