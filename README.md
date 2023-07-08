@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 01st Year Bsc.IT Student (SLIIT Malabe Branch).
+### I am 01st Year Bsc.IT Student (SLIIT Malabe Branch).
 ### Innovative codes come from mistakes,
 ### So give fire to your sparks.
 
