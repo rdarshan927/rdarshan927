@@ -8,6 +8,11 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![](https://visitcount.itsvg.in/api?id=rdarshan927&icon=0&color=0)](https://www.linkedin.com/in/rdarshan927)
 
+
+---
+
+![](https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=30)
+
 ---
 <!--img align="right" alt="Coder GIF" height=170 width=250 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img align="right" alt="Coder GIF" width=35% src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVPZuj_11cG9howtp5uj68wJISI6DiWi71ea3QFzjcFnwTmISjtTIbhKCpX_oABXPUFjL5iuAt7l78uJzekQMklNS53H7H93PjHHjQQrSm_uwNgGTr8l_StZ6uO5kThFf3rq8ekuek-MGtq0t2FJVdRIUqO3U4VlWnXwmArzsVKNmILnpQbW2TNXfGuJ8/s320/darshanr.gif" />
@@ -18,9 +23,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rdarshan927&theme=vue-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
----
 
-![](https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=9)
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=false&no-bg=true&margin-w=4)
