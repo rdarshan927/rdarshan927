@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on [github website for my-self] - https://rdarshan927.github.io/
+- 🔭 I’m currently working on [skill development]
 
 - 🌱 I’m currently learning **Data Structures, Reactjs**
 
