@@ -8,7 +8,7 @@
 
 <!-- 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/)-->
 
-- 📝 I regularly be active on [X](https://twitter.com/RDarshan927)
+- 📝 I regularly be active on [X - once named Twitter](https://twitter.com/RDarshan927)
 
 <!--- 💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi,SEO **-->
 
