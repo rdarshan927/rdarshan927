@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on [github website - lookOver] - https://rdarshan927.github.io/
+- 🔭 I’m currently working on [github webpage - lookOver] - https://rdarshan927.github.io/
 
 - 🌱 I’m currently learning **Data Structures, Reactjs**
 
