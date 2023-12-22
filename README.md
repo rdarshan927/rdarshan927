@@ -1,8 +1,8 @@
 
 
-- 🔭 I’m currently working on [github webpage - lookOver] - https://rdarshan927.github.io/SLIITOpenSource/
+<!-- 🔭 I’m currently working on [github webpage - lookOver] - https://rdarshan927.github.io/SLIITOpenSource/-->
 
-- 🌱 I’m currently learning **Data Structures, Reactjs**
+<!-- 🌱 I’m currently learning **Data Structures, Reactjs**-->
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
