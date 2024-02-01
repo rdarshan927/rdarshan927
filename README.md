@@ -44,14 +44,14 @@
 
 <p align = "center">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=rdarshan927&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true" width = 410>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rdarshan927&theme=chartreuse-dark&hide_border=true" width = 410>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&compact&hide_border=true&layout=compact" width=300>
 
 </p>
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=1)
+<!--![](https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=1)-->
 
 ---
 
@@ -63,3 +63,5 @@
 <!--img align="right" alt="Coder GIF" height=170 width=250 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img align="right" alt="Coder GIF" width=35% src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVPZuj_11cG9howtp5uj68wJISI6DiWi71ea3QFzjcFnwTmISjtTIbhKCpX_oABXPUFjL5iuAt7l78uJzekQMklNS53H7H93PjHHjQQrSm_uwNgGTr8l_StZ6uO5kThFf3rq8ekuek-MGtq0t2FJVdRIUqO3U4VlWnXwmArzsVKNmILnpQbW2TNXfGuJ8/s320/darshanr.gif" />
 <!--img align="left" alt="Coder GIF" height=194 width=280  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
