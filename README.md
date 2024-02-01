@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **darshanronline@gmail.com :)**
 
-[![](https://visitcount.itsvg.in/api?id=rdarshan927&icon=0&color=0)](https://rdarshan927.github.io/)
+- [![](https://visitcount.itsvg.in/api?id=rdarshan927&icon=0&color=0)](https://rdarshan927.github.io/)
 
 
 ---
