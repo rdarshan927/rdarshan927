@@ -51,7 +51,7 @@
 
 ---
 
-<!--![](https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=1)-->
+<!--![](https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=1)--
 
 ---
 
