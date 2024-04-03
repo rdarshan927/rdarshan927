@@ -15,6 +15,8 @@
 - 📫 How to reach me **darshanronline@gmail.com :)**
 
 - **MERN Stack Developer**
+- **Software Engineer Intern**
+- **IT Undergraduate**
   [![](https://visitcount.itsvg.in/api?id=rdarshan927&icon=0&color=0)](https://rdarshan927.github.io/)
 
 
