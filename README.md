@@ -11,7 +11,7 @@
 - 📝 I regularly be active on [X - once named Twitter](https://twitter.com/RDarshan927)
 
 <!--- 💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi,SEO **-->
-- Visit to know more about me - [](https://rdarshan927.github.io/)
+- Visit here to know more -[ ABOUT ME ](https://rdarshan927.github.io/)
 
 - 📫 How to reach me **darshanronline@gmail.com :)**
 
