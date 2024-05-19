@@ -13,7 +13,7 @@
 <!--- 💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi,SEO **-->
 - Visit the website to know more -[ ABOUT ME ](https://rdarshan927.github.io/)
 
-- 📫 How to reach me **darshanronline@gmail.com :)**
+- 📫 How to reach me -[ CONATCT ME ](https://rdarshan927.github.io/#contact)
 
 - **MERN Stack Developer**
 - **Software Engineer Intern**
