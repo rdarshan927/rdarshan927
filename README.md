@@ -13,7 +13,7 @@
 <!--- 💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi,SEO **-->
 - Visit the website to know more -[ ABOUT ME ](https://rdarshan927.github.io/)
 
-- 📫 How to reach me -[ CONATCT ME ](https://rdarshan927.github.io/#contact)
+- 📫 How to reach me -[ CONTACT ME ](https://rdarshan927.github.io/#contact)
 
 - SLIIT IT Students may get benefit by visiting here -[ SLIIT Projectz ](https://github.com/orgs/SLIIT-Projectz/repositories)
 
