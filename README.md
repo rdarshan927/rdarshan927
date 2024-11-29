@@ -62,6 +62,8 @@
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rdarshan927) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rdarshan927) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rdarshan927) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rdarshan927) 
 
+  ![](https://hit.yhype.me/github/profile?user_id=64832773)
+
 
 <!--img align="right" alt="Coder GIF" height=170 width=250 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img align="right" alt="Coder GIF" width=35% src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVPZuj_11cG9howtp5uj68wJISI6DiWi71ea3QFzjcFnwTmISjtTIbhKCpX_oABXPUFjL5iuAt7l78uJzekQMklNS53H7H93PjHHjQQrSm_uwNgGTr8l_StZ6uO5kThFf3rq8ekuek-MGtq0t2FJVdRIUqO3U4VlWnXwmArzsVKNmILnpQbW2TNXfGuJ8/s320/darshanr.gif" />
