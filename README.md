@@ -14,7 +14,7 @@
 - SLIIT IT Students may get benefit by visiting - [SLIIT Projectz](https://github.com/orgs/SLIIT-Projectz/repositories)
 
 - **MERN Stack Developer**
-- **Software Engineer Intern**
+<!-- - **Software Engineer Intern** -->
 - **IT Undergraduate**
   
 [![](https://visitcount.itsvg.in/api?id=rdarshan927&icon=0&color=0)](https://rdarshan927.github.io/)
