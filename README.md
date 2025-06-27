@@ -1,14 +1,12 @@
 <h1 align="center"><b>Hi, I'm Darshan 👋</b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <!--a href="https://github.com/DenverCoder1/readme-typing-svg"-->
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=Welcome+to+my+GitHub!;Full-Stack+MERN+Developer;Linux+Enthusiast;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F">
-  </a>
+  <!--/a-->
 </p>
 
----
 
-## 📌 About Me
 
 <!-- img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" -->
 
@@ -45,14 +43,13 @@
 </div>
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdarshan927&theme=dark&show_icons=true&count_private=true&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rdarshan927&theme=dark&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdarshan927&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rdarshan927&theme=chartreuse-dark&hide_border=true" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&layout=compact&theme=dark&hide_border=true&langs_count=10" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" width="40%">
 </p>
 
 ---
