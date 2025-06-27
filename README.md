@@ -8,7 +8,7 @@
 
 
 
-<!-- img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" -->
+<img align="right" alt="Coding" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" width="40%">
 
 - 🔭 I’m currently working on **Web-based and AI-integrated apps**
 - 🌱 Learning more about **Spring Boot + .NET + Cloud**
@@ -48,7 +48,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rdarshan927&theme=chartreuse-dark&hide_border=true" width="49%">
 </p>
 
-<p align="center">
+<!--p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" width="40%">
 </p>
 
