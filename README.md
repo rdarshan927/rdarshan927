@@ -1,58 +1,66 @@
-<!-- 🔭 I’m currently working on [lookOver](https://rdarshan927.github.io/SLIITOpenSource/) -->
+<h1 align="center"><b>Hi, I'm Darshan 👋</b></h1>
 
-<!-- 🌱 I’m currently learning **AI/ ML, NLP** -->
-
-<!-- 👯 I’m looking to collaborate on **Open Source Projects** -->
-
-<!-- 📝 I regularly be active on [X - once named Twitter](https://twitter.com/RDarshan927) -->
-
-<!--- 💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi,SEO **-->
-- Visit the website to know more - [ABOUT ME](https://rdarshan927.github.io/)
-
-- 📫 How to - [REACH ME](https://rdarshan927.github.io/#contact)
-
-- SLIIT IT Students may get benefit by visiting - [SLIIT Projectz](https://github.com/orgs/SLIIT-Projectz/repositories)
-
-- **MERN Stack Developer**
-<!-- - **Software Engineer Intern** -->
-- **IT Undergraduate**
-  
-[![](https://visitcount.itsvg.in/api?id=rdarshan927&icon=0&color=0)](https://rdarshan927.github.io/)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=Welcome+to+my+GitHub!;Full-Stack+MERN+Developer;Linux+Enthusiast;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F">
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=white" >
-  <img src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
-  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" >
-  <img src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=java&logoColor=white" >
-  <img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white" >
-  <img src="https://img.shields.io/badge/php-000000.svg?style=for-the-badge&logo=php&logoColor=white" >
-  <img src="https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white" >
-  <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white" >
-  <img src="https://img.shields.io/badge/kotlin-000000.svg?style=for-the-badge&logo=kotlin&logoColor=white" >
-  <img src="https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white" >
-  <img src="https://img.shields.io/badge/mongodb-000000.svg?style=for-the-badge&logo=mongodb&logoColor=white" >
-  <img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white" >
-  <img src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white" >
-  <img src="https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white" >
-  <img src="https://img.shields.io/badge/reactjs-000000.svg?style=for-the-badge&logo=react&logoColor=white" >
-  <img src="https://img.shields.io/badge/nodejs-000000.svg?style=for-the-badge&logo=node.js&logoColor=white" >
-  <img src="https://img.shields.io/badge/azure-000000.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" >
-  <img src="https://img.shields.io/badge/vscode-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" >
-  <img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white" >
+## 📌 About Me
 
-</div>
+<!-- img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" -->
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdarshan927&theme=chartreuse-dark&hide_border=true" width=410>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&compact&hide_border=true&layout=compact" width=300>
+- 🔭 I’m currently working on **Web-based and AI-integrated apps**
+- 🌱 Learning more about **Spring Boot + .NET + Cloud**
+- 💬 Ask me about **MERN Stack, JWT, MongoDB, TailwindCSS**
+- 🎓 BSc in IT @ SLIIT (Specializing in Software Engineering)
+- 🧠 Linux wizardry, anime bingeing, code whispering 🐧
+- 🌐 Portfolio: [rdarshan927.github.io](https://rdarshan927.github.io)
+- 📫 Reach me: `darshanronline@gmail.com`
+- <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rdarshan927&label=Profile+Views&color=0e75b6&style=flat" alt="rdarshan927" />
 </p>
 
 
+
 ---
+<div align="center">
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdarshan927&theme=dark&show_icons=true&count_private=true&hide_border=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rdarshan927&theme=dark&hide_border=true" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&layout=compact&theme=dark&hide_border=true&langs_count=10" width="40%">
+</p>
+
+---
+<!--
+- 🎓 [SLIIT Projectz Repos](https://github.com/orgs/SLIIT-Projectz/repositories)
+- 🌐 [About Me](https://rdarshan927.github.io/)
+- 📫 [Contact](https://rdarshan927.github.io/#contact)
+
 
 <!--![](https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=1)--
 
