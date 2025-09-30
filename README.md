@@ -10,13 +10,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" width="40%">
 
-- 🔭 I’m currently working on **Web-based and AI-integrated apps**
-- 🌱 Learning more about **Spring Boot + .NET + Cloud**
-- 💬 Ask me about **MERN Stack, JWT, MongoDB, TailwindCSS**
-- 🎓 BSc in IT @ SLIIT (Specializing in Software Engineering)
-- 🧠 Linux wizardry, anime bingeing, code whispering 🐧
-- 🌐 Portfolio: [rdarshan927.github.io](https://rdarshan927.github.io)
-- 📫 Reach me: `darshanronline@gmail.com`
+- I’m currently working on **Web-based and AI-integrated apps**
+- Learning more about **Spring Boot + .NET + Cloud**
+- Ask me about **MERN Stack, JWT, MongoDB, TailwindCSS**
+- BSc in IT @ SLIIT (Specializing in Software Engineering)
+- Linux wizardry, anime bingeing, code whispering 🐧
+- Portfolio: [rdarshan927.github.io](https://rdarshan927.github.io)
+- Reach me: `darshanronline@gmail.com`
 - <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rdarshan927&label=Profile+Views&color=0e75b6&style=flat" alt="rdarshan927" />
 </p>
