@@ -1,34 +1,13 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline; z-index:9;">
+
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;z-index:9;">
 
 <h1 align="center"><b>Hi, I'm Darshan 👋</b></h1>
 
 <p align="center">
-  <!--a href="https://github.com/DenverCoder1/readme-typing-svg"-->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=Welcome+to+my+GitHub!;Full-Stack+MERN+Developer;Linux+Enthusiast;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F">
-  <!--/a-->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full-Stack+MERN+Developer;Linux+Enthusiast;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=50">
 </p>
 
-- I’m currently working on **Web-based and AI-integrated apps**
-- Learning more about **Flutter + .NET + Cloud**
-- Ask me about **MERN Stack, Spring Boot, JWT, MongoDB, Oracle, MySQL**
-- BSc in IT @ SLIIT (Specializing in Software Engineering)
-- Linux wizardry, anime bingeing, code whispering 🐧
-- Portfolio: [rdarshan927.github.io](https://rdarshan927.github.io)
-- Reach me: `darshanronline@gmail.com`
-- <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=rdarshan927&label=Profile+Views&color=0e75b6&style=flat" alt="rdarshan927" />
-    <a href="https://buymeacoffee.com/rdarshan927">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-    </a>
-    <a href="https://patreon.com/rdarshan927">
-      <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
-    </a>
-  </p>
-
-
-
----
 <div align="center">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -50,6 +29,21 @@
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+
+- I’m currently working on **Web-based and AI-integrated apps**
+- Learning more about **Flutter + .NET + Cloud**
+- Ask me about **MERN Stack, Spring Boot, JWT, MongoDB, Oracle, MySQL**
+- BSc in IT @ SLIIT (Specializing in Software Engineering)
+- Linux wizardry, anime bingeing, code whispering 🐧
+- Portfolio: [rdarshan927.github.io](https://rdarshan927.github.io)
+- Reach me: `darshanronline@gmail.com`
+- <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=rdarshan927&label=Profile+Views&color=0e75b6&style=flat" alt="rdarshan927" />
+    <a href="https://buymeacoffee.com/rdarshan927">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+    </a>
+  </p>
 
 
 ---
