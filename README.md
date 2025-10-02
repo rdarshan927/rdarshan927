@@ -29,20 +29,27 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+<table width="100%" border="0">
+  <tr>
+    <td valign="top" width="80%">
+      <p>- I’m currently working on <b>Web-based and AI-integrated apps</b></p>
+      <p>- Learning more about <b>Flutter + .NET + Cloud</b></p>
+      <p>- Ask me about <b>MERN Stack, Spring Boot, JWT, MongoDB, Oracle, MySQL</b></p>
+      <p>- BSc in IT @ SLIIT (Specializing in Software Engineering)</p>
+      <p>- Linux wizardry, anime bingeing, code whispering 🐧</p>
+      <p>- Portfolio: <a href="https://rdarshan927.github.io">rdarshan927.github.io</a></p>
+      <p>- Reach me: <code>darshanronline@gmail.com</code></p>
+    </td>
+    <td valign="center" align="center" width="20%">
+      <img src="https://komarev.com/ghpvc/?username=rdarshan927&label=Profile+Views&color=0e75b6&style=flat" alt="rdarshan927" /><br><br>
+      <a href="https://buymeacoffee.com/rdarshan927">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-- I’m currently working on **Web-based and AI-integrated apps**
-- Learning more about **Flutter + .NET + Cloud**
-- Ask me about **MERN Stack, Spring Boot, JWT, MongoDB, Oracle, MySQL**
-- BSc in IT @ SLIIT (Specializing in Software Engineering)
-- Linux wizardry, anime bingeing, code whispering 🐧
-- Portfolio: [rdarshan927.github.io](https://rdarshan927.github.io)
-- Reach me: `darshanronline@gmail.com`
-- <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=rdarshan927&label=Profile+Views&color=0e75b6&style=flat" alt="rdarshan927" />
-    <a href="https://buymeacoffee.com/rdarshan927">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-    </a>
-  </p>
+
 
 
 ---
