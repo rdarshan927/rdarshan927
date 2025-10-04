@@ -4,21 +4,27 @@
 <h1 align="center"><b>Hi, I'm Darshan 👋</b></h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full-Stack+MERN+Developer;Linux+Enthusiast;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Linux+Enthusiast+🐧;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=50">
 </p>
 
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Available+for+HIRE!;Full-Stack;Intern/+Any+Positions;Full+Time/+Part+Time&font=Fira%20Code&color=003B00&center=true&width=300&height=50">
+</p>
 
 
 <table width="100%" border="0">
   <tr>
     <td valign="top" width="80%">
-      <p>- I’m currently working on <b>Web-based and AI-integrated apps</b></p>
-      <p>- Learning more about <b>Flutter + .NET + Cloud</b></p>
-      <p>- Ask me about <b>Spring Boot, MERN Stack, PHP, JWT, MongoDB, Oracle, MySQL</b></p>
-      <p>- BSc in IT @ SLIIT (Specializing in Software Engineering)</p>
-      <p>- Linux wizardry, anime bingeing, code whispering 🐧</p>
-      <p>- Portfolio: <a href="https://rdarshan927.github.io">rdarshan927.github.io</a></p>
-      <p>- Reach me: <code>darshanronline@gmail.com</code></p>
+      <ul>
+          <li> I’m currently working on <b>Web-based and AI-integrated apps</b></li>
+          <li> Learning more about <b>Flutter + .NET + Cloud</b></li>
+          <li> Ask me about <b>Spring Boot, MERN Stack, PHP, JWT, MongoDB, Oracle, MySQL</b></li>
+          <li> BSc in IT @ SLIIT (Specializing in Software Engineering)</li>
+          <li> Linux wizardry, anime bingeing, code whispering 🐧</li>
+          <li> Portfolio: <a href="https://rdarshan927.github.io">rdarshan927.github.io</a></li>
+          <li> Reach me: <code>darshanronline@gmail.com</code></li>
+      </ul>
     </td>
     <td valign="center" align="center" width="20%">
       <img src="https://komarev.com/ghpvc/?username=rdarshan927&label=Profile+Views&color=0e75b6&style=flat" alt="rdarshan927" /><br><br>
