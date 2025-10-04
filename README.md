@@ -14,7 +14,7 @@
     <td valign="top" width="80%">
       <p>- I’m currently working on <b>Web-based and AI-integrated apps</b></p>
       <p>- Learning more about <b>Flutter + .NET + Cloud</b></p>
-      <p>- Ask me about <b>MERN Stack, Spring Boot, JWT, MongoDB, Oracle, MySQL</b></p>
+      <p>- Ask me about <b>Spring Boot, MERN Stack, PHP, JWT, MongoDB, Oracle, MySQL</b></p>
       <p>- BSc in IT @ SLIIT (Specializing in Software Engineering)</p>
       <p>- Linux wizardry, anime bingeing, code whispering 🐧</p>
       <p>- Portfolio: <a href="https://rdarshan927.github.io">rdarshan927.github.io</a></p>
@@ -54,13 +54,20 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=rdarshan927&theme=oldie&no-frame=true&no-bg=true&margin-w=2&column=6" width="100%"/>
+</p>
+
+---
+
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/rdarshan927/">
     <img src="https://gfgstatscard.vercel.app/rdarshan927" alt="GFG stats" width="55%" height="250"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=12" width="41%" height="250">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdarshan927&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" width="48%" height="200">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rdarshan927&theme=chartreuse-dark&hide_border=true" width="48%" height="200">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rdarshan927&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" width="48%" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rdarshan927&theme=chartreuse-dark&hide_border=true" width="48%" height="200"> -->
 </p>
 
 
