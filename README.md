@@ -31,11 +31,21 @@
       <a href="https://buymeacoffee.com/rdarshan927">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
       </a>
-    </td>
+      <br><br>
+
+  
+  <!-- Social icons in one colorful line -->
+  <a href="https://x.com/rdarshan927" target="_blank">
+    <img src="https://images.freeimages.com/image/large-previews/f35/x-twitter-logo-on-black-circle-5694247.png" alt="X" width="26" height="26" style="margin: 0 6px; background-color:#000; border-radius:6px; padding:4px;">
+  </a>
+  <a href="https://linkedin.com/in/rdarshan927" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="26" height="26" style="margin: 0 6px; background-color:#0077B5; border-radius:6px; padding:4px;">
+  </a>
+  <a href="https://myanimelist.net/animelist/rdarshan927_" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" alt="MyAnimeList" width="26" height="26" style="margin: 0 6px; background-color:#2E51A2; border-radius:6px; padding:4px;">
+  </a>
   </tr>
 </table>
-
----
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
