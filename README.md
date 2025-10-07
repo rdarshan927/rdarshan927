@@ -4,14 +4,9 @@
 <h1 align="center"><b>Hi, I'm Darshan 👋</b></h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Linux+Enthusiast+🐧;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=40">
-</p>
-<p align="center">
-  <span><b><font size="4">Available for Hire!</font></b></span>
-</p>
-
-<p align="center">
-  <sub>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Linux+Enthusiast+🐧;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=40"><br>
+     <span><b><font size="4">Available for Hire!</font></b></span><br>
+    <sub>
     Note: The custom GitHub statistics shown below are based only on public repositories.  
     Private contributions are not included in these visuals.
   </sub>
