@@ -4,14 +4,18 @@
 <h1 align="center"><b>Hi, I'm Darshan 👋</b></h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Linux+Enthusiast+🐧;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Linux+Enthusiast+🐧;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=40">
 </p>
-
+<p align="center">
+  <span><b><font size="4">Available for Hire!</font></b></span>
+</p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Available+for+HIRE!;Full-Stack;Intern/+Any+Positions;Full+Time/+Part+Time&font=Fira%20Code&color=003B00&center=true&width=300&height=50">
+  <sub>
+    Note: The custom GitHub statistics shown below are based only on public repositories.  
+    Private contributions are not included in these visuals.
+  </sub>
 </p>
-
 
 <table width="100%" border="0">
   <tr>
@@ -41,7 +45,7 @@
   <a href="https://linkedin.com/in/rdarshan927" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="26" height="26" style="margin: 0 6px; background-color:#0077B5; border-radius:6px; padding:4px;">
   </a>
-  <a href="https://myanimelist.net/animelist/rdarshan927_" target="_blank">
+  <a href="https://myanimelist.net/animelist/rdarshan927" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" alt="MyAnimeList" width="26" height="26" style="margin: 0 6px; background-color:#2E51A2; border-radius:6px; padding:4px;">
   </a>
   </tr>
