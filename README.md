@@ -67,9 +67,6 @@
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
 </div> -->
 
-<!--break line-->
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-
 <!-- <p align="center" style="background:#C0C0C0;padding:10px;border-radius:12px;">
   <img src="https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=2&column=10" width="100%" alt="rdarshan927"/>
 </p> -->
