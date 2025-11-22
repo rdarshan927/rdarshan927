@@ -76,7 +76,8 @@
   <img src="https://github-trophies.vercel.app/?username=rdarshan927&theme=oldie&no-frame=true&no-bg=true&margin-w=2&column=6" width="100%"/>
 </p> -->
 
----
+<!--break line-->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 <p align="center">
   <!-- <a href="https://www.geeksforgeeks.org/user/rdarshan927/">
