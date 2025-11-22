@@ -3,7 +3,7 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
 </p> -->
-<h1 align="center"><b>Hi, I'm Darshan 👋</b></h1> 
+<h1 align="center"><b>Hi, I'm Darshan R 👋</b></h1> 
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Available+for+Hire!;Full-Stack+Developer;Linux+Enthusiast+🐧;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=40">
@@ -14,12 +14,11 @@
   <tr>
     <td valign="top" width="80%">
       <ul>
-          <li> I’m currently working on <b>Web-based and AI-integrated apps</b></li>
-          <li> Learning more about <b>Flutter + .NET + Cloud</b></li>
+          <li> I’m currently working on <b>Automation and AI-integrated apps</b></li>
+          <li> Learning more about <b>.NET + Automation + ML</b></li>
           <li> Ask me about <b>Spring Boot, Java, C#, MERN Stack, PHP, JWT, MongoDB, Oracle, MySQL, Git</b></li>
           <li> Undergraduate Software Engineering @ Sri Lanka Institution of Information Technology </li>
-          <li> Linux wizardry, anime bingeing, code whispering 🐧</li>
-          <li> Portfolio: <a href="https://rdarshan927.github.io">https://rdarshan927.github.io</a></li>
+          <li> Know more about me in Portfolio: <a href="https://rdarshan927.github.io">https://rdarshan927.github.io</a></li>
           <li> Reach me: <code>darshanronline@gmail.com (best to visit the portfolio and simply submit a message!)</code></li>
       </ul>
     </td>
@@ -44,7 +43,7 @@
   </tr>
 </table>
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -66,7 +65,7 @@
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
-</div>
+</div> -->
 
 <!--break line-->
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
