@@ -1,15 +1,13 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
-
-<h1 align="center"><b>Hi, I'm Darshan 👋</b></h1>
+<!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br> -->
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
+</p> -->
+<h1 align="center"><b>Hi, I'm Darshan 👋</b></h1> 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Linux+Enthusiast+🐧;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=40"><br>
-     <span><b><font size="4">Available for Hire!</font></b></span><br>
-    <sub>
-    Note: The custom GitHub statistics shown below are based only on public repositories.  
-    Private contributions are not included in these visuals.
-  </sub>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Available+for+Hire!;Full-Stack+Developer;Linux+Enthusiast+🐧;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=40">
+    <!-- <span><b><font size="4">Available for Hire!</font></b></span><br> Welcome+to+my+GitHub!;-->
 </p>
 
 <table width="100%" border="0">
@@ -68,7 +66,8 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
----
+<!--break line-->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 <p align="center" style="background:#C0C0C0;padding:10px;border-radius:12px;">
   <img src="https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=2&column=10" width="100%" alt="rdarshan927"/>
