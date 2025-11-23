@@ -3,7 +3,7 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
 </p> -->
-<h1 align="center"><b>Hi, I'm Darshan R 👋</b></h1> 
+<!-- <h1 align="center"><b>Hi, I'm Darshan R 👋</b></h1>  -->
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Available+for+Hire!;Full-Stack+Developer;Linux+Enthusiast+🐧;Anime+Lover+%F0%9F%A7%9C‍%E2%99%82%EF%B8%8F&font=Fira%20Code&color=00FFFF&center=true&width=300&height=40">
@@ -67,12 +67,12 @@
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
 </div> -->
 
-<!-- <p align="center" style="background:#C0C0C0;padding:10px;border-radius:12px;">
+<p align="center" style="background:#C0C0C0;padding:10px;border-radius:12px;">
   <img src="https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=2&column=10" width="100%" alt="rdarshan927"/>
-</p> -->
-<p align="center">
+</p> 
+<!-- <p align="center">
   <img src="https://github-trophies.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=2&column=12" width="100%"/>
-</p>
+</p> -->
 
 <!--break line-->
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
