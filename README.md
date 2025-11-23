@@ -17,15 +17,15 @@
           <li> I’m currently working on <b>Automation and AI-integrated apps</b></li>
           <li> Learning more about <b>.NET + Automation + ML</b></li>
           <li> Ask me about <b>Spring Boot, Java, C#, MERN Stack, PHP, JWT, MongoDB, Oracle, MySQL, Git</b></li>
-          <li> Undergraduate Software Engineering @ Sri Lanka Institution of Information Technology </li>
-          <li> Know more about me in Portfolio: <a href="https://rdarshan927.github.io">https://rdarshan927.github.io</a></li>
+          <li> Undergraduate Software Engineering Student @ SLIIT UNI </li>
+          <li> Know more about me: <a href="https://rdarshan927.github.io">https://rdarshan927.github.io</a></li>
           <li> Reach me: <code>darshanronline@gmail.com (best to visit the portfolio and simply submit a message!)</code></li>
       </ul>
     </td>
     <td valign="center" align="center" width="20%">
-      <img src="https://komarev.com/ghpvc/?username=rdarshan927&label=Profile+Views&label_color=000000&color=ffc600&style=for-the-badge" alt="rdarshan927" /><br><br>
+      <img src="https://komarev.com/ghpvc/?username=rdarshan927&label=Profile+Views&label_color=000000&color=blue&style=for-the-badge" alt="rdarshan927" /><br><br>
       <a href="https://buymeacoffee.com/rdarshan927">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&color=blue&logoColor=black" alt="Buy Me a Coffee" />
       </a>
       <br><br>
 
