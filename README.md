@@ -15,8 +15,8 @@
     <td valign="top" width="80%">
       <ul>
           <li> I’m currently working on <b>Automation and AI-integrated apps</b></li>
-          <li> Learning more about <b>.NET + Automation + ML</b></li>
-          <li> Ask me about <b>Spring Boot, Java, C#, MERN Stack, PHP, JWT, MongoDB, Oracle, MySQL, Git</b></li>
+          <!-- <li> Learning more about <b>.NET + Automation + ML</b></li> -->
+          <li> Ask me about <a href="https://rdarshan927.github.io/#skills">https://rdarshan927.github.io/#skills</a></li>
           <li> Undergraduate Software Engineering Student @ SLIIT UNI </li>
           <li> Know more about me: <a href="https://rdarshan927.github.io">https://rdarshan927.github.io</a></li>
           <li> Reach me: <code>darshanronline@gmail.com | Just simply submit a message via porfolio site!)</code></li>
