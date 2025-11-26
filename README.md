@@ -19,7 +19,7 @@
           <li> Ask me about <b>Spring Boot, Java, C#, MERN Stack, PHP, JWT, MongoDB, Oracle, MySQL, Git</b></li>
           <li> Undergraduate Software Engineering Student @ SLIIT UNI </li>
           <li> Know more about me: <a href="https://rdarshan927.github.io">https://rdarshan927.github.io</a></li>
-          <li> Reach me: <code>darshanronline@gmail.com (best to visit the portfolio and simply submit a message!)</code></li>
+          <li> Reach me: <code>darshanronline@gmail.com | Just simply submit a message via porfolio site!)</code></li>
       </ul>
     </td>
     <td valign="center" align="center" width="20%">
@@ -77,14 +77,14 @@
 <!--break line-->
 <!-- <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line"> -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <a href="https://www.geeksforgeeks.org/user/rdarshan927/">
     <img src="https://gfgstatscard.vercel.app/rdarshan927" alt="GFG stats" width="55%" height="250"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdarshan927&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=12" width="41%" height="250"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=rdarshan927&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" width="48%" height="200">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rdarshan927&theme=chartreuse-dark&hide_border=true" width="48%" height="200"> -->
-</p>
+<!-- </p> -->
   
 <!--
   ## 💰You can help me by Donating
