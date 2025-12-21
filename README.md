@@ -20,7 +20,7 @@
           <li> Member @ 127 crew Open Source Community: <a href="https://127crew.dev">https://127crew.dev</a></li>
           <li> Undergraduate Software Engineering Student @ SLIIT UNI </li>
           <li> Know more about me: <a href="https://rdarshan927.github.io">https://rdarshan927.github.io</a></li>
-          <li> Reach me: <code>darshanronline@gmail.com | Just simply submit a message via porfolio site!)</code></li>
+          <li> Mail me via: <code>darshanr@127crew.dev | Or just simply submit a message via porfolio site!)</code></li>
       </ul>
     </td>
     <td valign="center" align="center" width="20%">
@@ -70,6 +70,7 @@
 
 <p align="center" style="background:#C0C0C0;padding:10px;border-radius:12px;">
   <img src="https://github-profile-trophy.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=2&column=10" width="100%" alt="rdarshan927"/>
+  <img src="https://github-trophies.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=2&column=12" width="100%"/>
 </p> 
 <!-- <p align="center">
   <img src="https://github-trophies.vercel.app/?username=rdarshan927&theme=discord&no-frame=true&no-bg=true&margin-w=2&column=12" width="100%"/>
