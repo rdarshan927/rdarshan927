@@ -47,6 +47,23 @@
   </tr>
 </table>
 
+
+  <b>frequent usage in each filed,</b>
+<ul>
+  <li><b>Automation:</b> n8n, excel, docker (selfhosted 1+ year | Oracle VM) | 24/7 LIVE</li>
+  <li><b>Containerization:</b> Docker(selfhosted 4+ years | Azure VM, Oracle VM) | 27/7 LIVE</li>
+  <li><b>AI/ ML:</b> Python, numpy, pandas (last touched 2024)</li>
+  <li><b>Coding:</b> C (open source, personal), C# (job), JS (job, personal)</li>
+  <li><b>Database:</b> Oracle(job), MySql(personal), MongoDB(personal, academic)
+  <li><b>Framework:</b> .NET (job), React.Js (personal) </li>
+  <li><b>OS:</b> Arch (personal, open source), Linux mint (academic, production), Windows 11(job)</li>
+  <li><b>Hosting: VM (with nginx), netlify, vercel, github, supabase   | security: cloudflare</b></li>
+  <li><b>Vibe coding:</b> golang, python, Next.Js (open source, personal)</li>
+  <span>-------------------------------------------------------------------------------------------------------------</span>
+  <li><b>Past coding:</b> Java, Python, springboot, c++ (last untouched 2024)</li>
+  <li><b>Past hosting:</b> railway, render (last untouched 2024)</li>
+</ul>
+
 <!-- <div align="left">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logoColor=white" />
