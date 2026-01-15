@@ -61,7 +61,7 @@
   <li><b>Vibe coding:</b> golang, python, Next.Js (open source, personal)</li>
   <span>-------------------------------------------------------------------------------------------------------------</span>
   <li><b>Past coding:</b> Java, Python, springboot, c++ (last untouched 2024)</li>
-  <li><b>Past hosting:</b> railway, render (last untouched 2024)</li>
+  <li><b>Past hosting:</b> railway, render (last touched 2024)</li>
 </ul>
 
 <!-- <div align="left">
