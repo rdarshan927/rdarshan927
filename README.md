@@ -16,13 +16,13 @@
       <ul>
           <li> I’m currently working on <b>Automation and AI-integrated apps</b></li>
           <!-- <li> Learning more about <b>.NET + Automation + ML</b></li> -->
-          <li> Ask me about <a href="https://rdarshan927.github.io/#skills">https://rdarshan927.github.io/#skills</a></li>
+          <li> Ask me about <a href="https://rdarshan927.github.io/#skills">https://rdarshan927.127crew.dev/#skills</a></li>
           <br />
           <li> Core Lead @ 127 crew Open Source Community: <a href="https://127crew.dev/">https://127crew.dev/</a></li>
           <li> Software Engineer Intern @ D P Infotech (PVT) Ltd: <a href="https://www.dpinfotech.lk/">https://www.dpinfotech.lk/</a></li>
           <li> Undergraduate Software Engineering Student @ SLIIT UNI: <a href="https://www.sliit.lk/">https://www.sliit.lk/</a> </li>
           <br />
-          <li> Know more about me: <a href="https://rdarshan927.github.io">https://rdarshan927.github.io/</a></li>
+          <li> Know more about me: <a href="https://rdarshan927.github.io">https://rdarshan927.127crew.dev/</a></li>
           <li> Mail me via: <a href="mailto:darshanr@127crew.dev?subject=Hey%20there!%20from%20Github%20link">darshanr@127crew.dev</a> | Or just simply submit a message via porfolio site!)</code></li>
       </ul>
     </td>
